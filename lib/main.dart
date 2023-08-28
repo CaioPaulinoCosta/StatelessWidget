@@ -1,6 +1,15 @@
 import 'package:flutter/material.dart';
-import 'package:helloworld/Combustivel.dart';
+import 'Aluno.dart';
 
 void main() {
-  runApp(Combustivel());
+  runApp(MyApp());
+}
+
+class MyApp extends StatelessWidget {
+  @override
+  Widget build(BuildContext context) {
+    return MaterialApp(
+      home: Aluno(),
+    );
+  }
 }
