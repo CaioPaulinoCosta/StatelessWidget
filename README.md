@@ -1,19 +1,19 @@
-# Hello World
+# 1º Trabalho Parcial - StatelessWidget
 
-A new Flutter project created with FlutLab - https://flutlab.io
+Um projeto teste criado para resolver um exercício de Dart do dia 28/08/2023 da matéria de Técnicas Avançadas de Programação WEB e Mobile da FATEC Ourinhos, desenvolvido com fluttLab - https://flutlab.io
 
-## Getting Started
+## Primeiros Passos
 
-A few resources to get you started if this is your first Flutter project:
+Alguns recursos para começar se este é o seu primeiro projeto Flutter:
 
 - https://flutter.dev/docs/get-started/codelab
 - https://flutter.dev/docs/cookbook
 
-For help getting started with Flutter, view our
-https://flutter.dev/docs, which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Para obter ajuda para começar com o Flutter, veja nosso
+https://flutter.dev/docs, que oferece tutoriais,
+exemplos, orientações sobre desenvolvimento móvel e uma referência completa da API.
 
-## Getting Started: FlutLab - Flutter Online IDE
+## Primeiros Passos: FlutLab - IDE Online do Flutter
 
-- How to use FlutLab? Please, view our https://flutlab.io/docs
-- Join the discussion and conversation on https://flutlab.io/residents
+- Como usar o FlutLab? Por favor, veja nosso https://flutlab.io/docs
+- Participe da discussão e conversa em https://flutlab.io/residents
