@@ -1,6 +1,6 @@
 # 1º Trabalho Parcial - StatelessWidget
 
-Um projeto teste criado para resolver um exercício de Dart do dia 28/08/2023 da matéria de Técnicas Avançadas de Programação WEB e Mobile da FATEC Ourinhos, desenvolvido com fluttLab - https://flutlab.io
+Um projeto teste criado para resolver um exercício de Flutter do dia 28/08/2023 da matéria de Técnicas Avançadas de Programação WEB e Mobile da FATEC Ourinhos, desenvolvido com fluttLab - https://flutlab.io
 
 ## Primeiros Passos
 
